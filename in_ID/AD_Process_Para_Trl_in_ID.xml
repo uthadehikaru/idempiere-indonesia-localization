@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2024-12-24 -Smart Suite ERP, CRM and SCM- (c) 1999-2025 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="in_ID" table="AD_Process_Para">
+ <row id="133" trl="N">
+  <value column="Name" original="Warehouse">Warehouse</value>
+  <value column="Description" original="Storage Warehouse and Service Point">Storage Warehouse and Service Point</value>
+  <value column="Help" original="The Warehouse identifies a unique Warehouse where products are stored or Services are provided.">The Warehouse identifies a unique Warehouse where products are stored or Services are provided.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="134" trl="N">
+  <value column="Name" original="Movement Type">Movement Type</value>
+  <value column="Description" original="Method of moving the inventory">Method of moving the inventory</value>
+  <value column="Help" original="The Movement Type indicates the type of movement (in, out, to production, etc)">The Movement Type indicates the type of movement (in, out, to production, etc)</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="139" trl="N">
+  <value column="Name" original="Product">Product</value>
+  <value column="Description" original="Product, Service, Item">Product, Service, Item</value>
+  <value column="Help" original="Identifies an item which is either purchased or sold in this organization.">Identifies an item which is either purchased or sold in this organization.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="161" trl="N">
+  <value column="Name" original="Business Partner ">Business Partner </value>
+  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="163" trl="N">
+  <value column="Name" original="Business Partner ">Business Partner </value>
+  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="172" trl="N">
+  <value column="Name" original="Business Partner ">Business Partner </value>
+  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="174" trl="N">
+  <value column="Name" original="Business Partner ">Business Partner </value>
+  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="176" trl="N">
+  <value column="Name" original="Business Partner ">Business Partner </value>
+  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="178" trl="N">
+  <value column="Name" original="Business Partner ">Business Partner </value>
+  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="179" trl="N">
+  <value column="Name" original="Product Category">Product Category</value>
+  <value column="Description" original="Category of a Product">Category of a Product</value>
+  <value column="Help" original="Identifies the category which this product belongs to.  Product categories are used for pricing and selection.">Identifies the category which this product belongs to.  Product categories are used for pricing and selection.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="180" trl="N">
+  <value column="Name" original="Product">Product</value>
+  <value column="Description" original="Product, Service, Item">Product, Service, Item</value>
+  <value column="Help" original="Identifies an item which is either purchased or sold in this organization.">Identifies an item which is either purchased or sold in this organization.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="189" trl="N">
+  <value column="Name" original="Product Category">Product Category</value>
+  <value column="Description" original="Category of a Product">Category of a Product</value>
+  <value column="Help" original="Identifies the category which this product belongs to.  Product categories are used for pricing and selection.">Identifies the category which this product belongs to.  Product categories are used for pricing and selection.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="190" trl="N">
+  <value column="Name" original="Business Partner ">Business Partner </value>
+  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="223" trl="N">
+  <value column="Name" original="Tenant">Tenant</value>
+  <value column="Description" original="Tenant for this installation.">Tenant for this installation.</value>
+  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">A Tenant is a company or a legal entity. You cannot share data between Tenants.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="225" trl="N">
+  <value column="Name" original="Tenant">Tenant</value>
+  <value column="Description" original="Tenant for this installation.">Tenant for this installation.</value>
+  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">A Tenant is a company or a legal entity. You cannot share data between Tenants.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="227" trl="Y">
+  <value column="Name" original="Delete existing Accounting Entries">Hapus Entri Akuntansi yang ada</value>
+  <value column="Description" original="The selected accounting entries will be deleted!  DANGEROUS !!!">Entri akuntansi yang dipilih akan dihapus! BERBAHAYA !!!</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="233" trl="Y">
+  <value column="Name" original="Pricelist Version">Versi Harga</value>
+  <value column="Description" original="Only used if Price List is used to set future/standard cost price">Hanya digunakan jika Daftar Harga digunakan untuk menetapkan harga biaya di masa depan</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="240" trl="N">
+  <value column="Name" original="Business Partner ">Business Partner </value>
+  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="241" trl="N">
+  <value column="Name" original="Product">Product</value>
+  <value column="Description" original="Product, Service, Item">Product, Service, Item</value>
+  <value column="Help" original="Identifies an item which is either purchased or sold in this organization.">Identifies an item which is either purchased or sold in this organization.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="302" trl="Y">
+  <value column="Name" original="Overwrite Payment Rule">Aturan Pembayaran Target</value>
+  <value column="Description" original="Overwrite how to pay the invoice">Cara Anda membayar faktur</value>
+  <value column="Help" original="The Payment Rule indicates how the incoice will be settled - you can overwrite the value from the invoice.">Aturan Pembayaran menunjukkan metode pembayaran faktur.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="315" trl="Y">
+  <value column="Name" original="From User">Dari Pengguna</value>
+  <value column="Description" original="Send EMail from user">Kirim EMail dari pengguna</value>
+  <value column="Help" original="The email is sent from the user selected - otherwise it is sent from the request email address of the tenant">Email dikirim dari pengguna yang dipilih - jika tidak dikirim dari permintaan alamat email klien</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="452" trl="Y">
+  <value column="Name" original="Maintenance Mode">Mode Perawatan</value>
+  <value column="Description" original="Language Maintenance Mode">Mode Pemeliharaan Bahasa</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="467" trl="Y">
+  <value column="Name" original="Existing Organization">Organisasi yang ada</value>
+  <value column="Description" original="Organizational entity within tenant - set to empty if you want to create a new organization">Entitas organisasi dalam klien - atur kosong jika Anda ingin membuat organisasi baru</value>
+  <value column="Help" original="An organization is a unit of your tenant or legal entity - examples are store, department. You can share data between organizations.">Organisasi adalah unit klien atau badan hukum Anda - contohnya toko, departemen. Anda dapat berbagi data antar organisasi.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="469" trl="Y">
+  <value column="Name" original="Limit Access to Role">Batasi Akses ke Peran</value>
+  <value column="Description" original="If no Role is selected, grant access to all (non-manual) roles of the Tenant">Jika tidak ada Peran yang dipilih, beri akses ke semua peran (non-manual) Klien</value>
+  <value column="Help" original="The Role determines security and access a user who has this Role will have in the System.">Peran menentukan keamanan dan mengakses pengguna yang memiliki Peran ini dalam Sistem.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="493" trl="Y">
+  <value column="Name" original="New User/Contact">Pengguna / Kontak Baru</value>
+  <value column="Description" original="User within the system - Internal or Business Partner Contact">Pengguna dalam sistem - Kontak Internal atau Mitra Bisnis</value>
+  <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">Pengguna mengidentifikasi pengguna unik dalam sistem. Ini bisa menjadi pengguna internal atau kontak mitra bisnis</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="494" trl="Y">
+  <value column="Name" original="New Workflow Responsible">Alur Kerja Baru Bertanggung Jawab</value>
+  <value column="Description" original="Responsible for Workflow Execution">Bertanggung jawab atas Eksekusi Alur Kerja</value>
+  <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="496" trl="Y">
+  <value column="Name" original="New User/Contact">New User/Contact</value>
+  <value column="Description" original="User within the system - Internal or Business Partner Contact">Pengguna dalam sistem - Kontak Internal atau Mitra Bisnis</value>
+  <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">Pengguna mengidentifikasi pengguna unik dalam sistem. Ini bisa menjadi pengguna internal atau kontak mitra bisnis</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="497" trl="Y">
+  <value column="Name" original="New Workflow Responsible">Alur Kerja Baru Bertanggung Jawab</value>
+  <value column="Description" original="Responsible for Workflow Execution">Bertanggung jawab atas Eksekusi Alur Kerja</value>
+  <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">Tanggung jawab utama untuk alur kerja adalah dengan pengguna yang sebenarnya. Workflow Responsible memungkinkan Anda menentukan cara untuk menemukan Pengguna yang sebenarnya.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="523" trl="Y">
+  <value column="Name" original="Default Sales Rep">Tenaga Penjualan Default</value>
+  <value column="Description" original="If not defined on Business Partner Level">Jika tidak didefinisikan pada Tingkat Mitra Bisnis</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="524" trl="Y">
+  <value column="Name" original="Dunning Currency">Dunning Currency</value>
+  <value column="Description" original="Currency to create Dunning Letters">Mata uang untuk membuat Surat Dunning</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="50008" trl="Y">
+  <value column="Name" original="IMAP Password">Kata Sandi IMAP</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="50009" trl="Y">
+  <value column="Name" original="Request Folder">Folder Permintaan</value>
+  <value column="Description" original="After take email form inbox folder, and process it success, email will move to this folder">Setelah mengambil email dari folder kotak masuk, dan memprosesnya berhasil, email akan pindah ke folder ini</value>
+  <value column="Help" original="folder can define as hierarchy, use &quot;\&quot; to separate folder. example customer\vietnam&#10;will read email from folder vietnam under folder customer&#10;after take email form inbox folder, and process it success, email will move to this folder">folder dapat didefinisikan sebagai hierarki, gunakan "\" untuk memisahkan folder. contoh pelanggan \ vietnam
+akan membaca email dari folder vietnam di bawah folder pelanggan
+setelah mengambil folder kotak masuk form email, dan memprosesnya berhasil, email akan pindah ke folder ini</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="50010" trl="Y">
+  <value column="Name" original="Inbox Folder">Folder Kotak Masuk</value>
+  <value column="Description" original="Mail folder, where process will take email and make request">Folder email, di mana proses akan mengambil email dan membuat permintaan</value>
+  <value column="Help" original="folder can define as hierarchy, use &quot;\&quot; to separate folder. example customer\vietnam&#10;will read email from folder vietnam under folder customer">folder dapat didefinisikan sebagai hierarki, gunakan "\" untuk memisahkan folder. contoh pelanggan \ vietnam
+akan membaca email dari folder vietnam di bawah folder pelanggan</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="50011" trl="Y">
+  <value column="Name" original="Error Folder">Folder Kesalahan</value>
+  <value column="Description" original="Mail folder to push unsuccess email  ">Folder email untuk mendorong email yang tidak berhasil</value>
+  <value column="Help" original="folder can define as hierarchy, use &quot;\&quot; to separate folder. example customer\error\vietnam&#10;will puss email can't process to folder vietnam under folder error under folder customer">folder dapat didefinisikan sebagai hierarki, gunakan "\" untuk memisahkan folder. contoh pelanggan \ kesalahan \ vietnam
+akan mengelompokkan email tidak dapat memproses ke folder vietnam di bawah folder error di bawah folder pelanggan</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="50019" trl="Y">
+  <value column="Name" original="Shipment Date">Tanggal pengiriman</value>
+  <value column="Description" original="Date printed on shipment">Tanggal dicetak pada pengiriman</value>
+  <value column="Help" original="The Shipment Date indicates the date printed on the shipment.">Tanggal Pengiriman menunjukkan tanggal yang dicetak pada pengiriman.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53011" trl="Y">
+  <value column="Name" original="Print Unprocessed Entries Only">Cetak Entri yang Belum Diolah</value>
+  <value column="Description" original="Print the unprocessed (unprinted) entries of the dunning run only.">Cetak hanya entri yang belum diproses (belum dicetak) dari dunning run.</value>
+  <value column="Help" original="Print the unprocessed (unprinted) entries of the dunning run only. This allows you to reprint only certain dunning entries.">Cetak hanya entri yang belum diproses (belum dicetak) dari dunning run. Hal ini memungkinkan Anda untuk mencetak ulang hanya entri yang docking tertentu.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53025" trl="Y">
+  <value column="Name" original="Purchase Price List Version">Versi Daftar Harga Pembelian</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53030" trl="Y">
+  <value column="Name" original="New Product">Produk baru</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53032" trl="Y">
+  <value column="Name" original="Action">Tindakan</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53066" trl="Y">
+  <value column="Name" original="Is Print Pack &amp; Tools List" xml:space="preserve"><![CDATA[Apakah Print Pack & Daftar Alat]]></value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53068" trl="Y">
+  <value column="Name" original="Is Print Pick List">Apakah Print Pick List</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53069" trl="Y">
+  <value column="Name" original="Is Print Workflow">Apakah Print Workflow</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53127" trl="Y">
+  <value column="Name" original="Generate Fields">Hasilkan Fields</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53131" trl="Y">
+  <value column="Name" original="Scripts Path">Script Path</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53142" trl="Y">
+  <value column="Name" original="Includes only the Tabs that Insert records">Hanya menyertakan Tab yang Menyisipkan catatan</value>
+  <value column="Description" original="Generated Export Format for the Tabs with Insert Record is Yes">Format Ekspor yang Dihasilkan untuk Tab dengan Sisipkan Catatan adalah Ya</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53143" trl="Y">
+  <value column="Name" original="Includes only the mandatory columns">Hanya menyertakan kolom wajib</value>
+  <value column="Description" original="Generated an Export Format Line  if the column is mandatory ">Menghasilkan Baris Format Ekspor jika kolom wajib</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53219" trl="Y">
+  <value column="Name" original="Based in DRP Demand">Berbasis di DRP Demand</value>
+  <value column="Description" original="Based in DRP Demand">Berbasis di DRP Demand</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53232" trl="Y">
+  <value column="Name" original="Bank Account From">Dari Rekening Bank</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53233" trl="Y">
+  <value column="Name" original="Bank Account To">Rekening Bank Ke</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53243" trl="Y">
+  <value column="Name" original="Valid from">Berlaku dari</value>
+  <value column="Description" original="Valid from including this date (first day)">Berlaku dari termasuk tanggal ini (hari pertama)</value>
+  <value column="Help" original="The Valid From date indicates the first day of a date range">Tanggal Berlaku Dari menunjukkan hari pertama dari rentang tanggal</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53246" trl="Y">
+  <value column="Name" original="Bank Account From">Dari Rekening Bank</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53247" trl="Y">
+  <value column="Name" original="Bank Account To">Rekening Bank Ke</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53263" trl="Y">
+  <value column="Name" original="Account Date">Tanggal Akun</value>
+  <value column="Description" original="Optional account date range">Rentang tanggal akun opsional</value>
+  <value column="Help" original="Only documents within this date range which are also in open periods will be reset.">Hanya dokumen dalam rentang tanggal ini yang juga dalam periode terbuka yang akan direset.</value>
+  <value column="Placeholder" original="From">Dari</value>
+  <value column="Placeholder2" original="To">Ke</value>
+ </row>
+ <row id="53282" trl="Y">
+  <value column="Name" original="Tenant Name">Nama Klien</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53284" trl="Y">
+  <value column="Name" original="Administrative User Name">Nama Pengguna Administratif</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53285" trl="Y">
+  <value column="Name" original="Normal User Name">Nama Pengguna Normal</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53289" trl="Y">
+  <value column="Name" original="City Name">nama Kota</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53291" trl="Y">
+  <value column="Name" original="BP Accounting">Akuntansi BP</value>
+  <value column="Description" original="Use BP accounting dimension">Gunakan dimensi akuntansi BP</value>
+  <value column="Help" original="Define if this tenant will use business partner accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Tetapkan apakah klien ini akan menggunakan dimensi akuntansi mitra bisnis. Ini dapat diubah kemudian di jendela Skema Akuntansi klien.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53292" trl="Y">
+  <value column="Name" original="Product Accounting">Akuntansi Produk</value>
+  <value column="Description" original="Use Product accounting dimension">Gunakan dimensi akuntansi Produk</value>
+  <value column="Help" original="Define if this tenant will use product accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Tentukan apakah klien ini akan menggunakan dimensi akuntansi produk. Ini dapat diubah kemudian di jendela Skema Akuntansi klien.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53293" trl="Y">
+  <value column="Name" original="Project Accounting">Akuntansi Proyek</value>
+  <value column="Description" original="Use Project accounting dimension">Gunakan dimensi akuntansi Proyek</value>
+  <value column="Help" original="Define if this tenant will use project accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Tentukan apakah klien ini akan menggunakan dimensi akuntansi proyek. Ini dapat diubah kemudian di jendela Skema Akuntansi klien.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53294" trl="Y">
+  <value column="Name" original="Campaign Accounting">Akuntansi Kampanye</value>
+  <value column="Description" original="Use Campaign accounting dimension">Gunakan dimensi akuntansi kampanye</value>
+  <value column="Help" original="Define if this tenant will use campaign accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Tetapkan apakah klien ini akan menggunakan dimensi akuntansi kampanye. Ini dapat diubah kemudian di jendela Skema Akuntansi klien.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53295" trl="Y">
+  <value column="Name" original="Sales Region Accounting">Akuntansi Wilayah Penjualan</value>
+  <value column="Description" original="Use Sales Region accounting dimension">Gunakan dimensi akuntansi Wilayah Penjualan</value>
+  <value column="Help" original="Define if this tenant will use sales region accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Tentukan apakah klien ini akan menggunakan dimensi akuntansi wilayah penjualan. Ini dapat diubah kemudian di jendela Skema Akuntansi klien.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53296" trl="Y">
+  <value column="Name" original="Chart of Accounts File">Bagan File Akun</value>
+  <value column="Description" original="Location of the chart of accounts to be used with this tenant.  At this stage just the default accounts will be created.">Lokasi bagan akun yang akan digunakan dengan klien ini. Pada tahap ini hanya akun default yang akan dibuat.</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53314" trl="Y">
+  <value column="Name" original="Full rebuild">Pembangunan kembali penuh</value>
+  <value column="Description" original="Delete all existing summary data and recalculate.">Hapus semua data ringkasan yang ada dan hitung ulang.</value>
+  <value column="Help" original="If not selected, only those periods with recently posted accounting facts will be recalculated.">Jika tidak dipilih, hanya periode-periode dengan fakta akuntansi yang baru diposting akan dihitung ulang.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53316" trl="Y">
+  <value column="Name" original="Force">Memaksa</value>
+  <value column="Description" original="Force rebuild of cube even if locked.">Paksa ulang kubus meskipun terkunci.</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53485" trl="Y">
+  <value column="Name" original="Periodicity">Periodisitas</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53486" trl="Y">
+  <value column="Name" original="Repetitions">Pengulangan</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53516" trl="Y">
+  <value column="Name" original="Recreate">Rekreasi</value>
+  <value column="Description" original="Overwrite existing production lines">Timpa lini produksi yang ada</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53517" trl="Y">
+  <value column="Name" original="Production Quantity">Kuantitas produksi</value>
+  <value column="Description" original="Quantity of products to produce">Kuantitas produk yang akan diproduksi</value>
+  <value column="Help" original="The Production Quantity identifies the number of products to produce">Kuantitas Produksi mengidentifikasi jumlah produk yang akan diproduksi</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53526" trl="Y">
+  <value column="Name" original="Is Kanban">Apakah Kanban</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="53582" trl="Y">
+  <value column="Name" original="CreateOpportunity">Buat Peluang</value>
+  <value column="Description" original="Create Opportunity">Buat Peluang</value>
+  <value column="Help" original="Create a new Sales Opportunity when converting a lead">Buat Peluang Penjualan baru saat mengonversi prospek</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200000" trl="N">
+  <value column="Name" original="Project">Project</value>
+  <value column="Description" original="Financial Project">Financial Project</value>
+  <value column="Help" original="A Project allows you to track and control internal or external activities.">A Project allows you to track and control internal or external activities.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200005" trl="Y">
+  <value column="Name" original="New EMail Confirm">Konfirmasi EMail Baru</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200007" trl="Y">
+  <value column="Name" original="Reset Existing Access">Setel Ulang Akses yang Ada</value>
+  <value column="Description" original="Reset Existing Access">Setel Ulang Akses yang Ada</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200055" trl="Y">
+  <value column="Name" original="Product">Produk</value>
+  <value column="Description" original="Please enter the product (component) you wish to search for">Silakan masukkan produk (komponen) yang ingin Anda cari</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200071" trl="Y">
+  <value column="Name" original="Document Type">Tipe dokumen</value>
+  <value column="Description" original="Inventory Cost Adjustment Document Type">Jenis Dokumen Penyesuaian Biaya Persediaan</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200074" trl="Y">
+  <value column="Name" original="Administrative User Email">Email Pengguna Administratif</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200075" trl="Y">
+  <value column="Name" original="Normal User Email">Email Pengguna Normal</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200077" trl="Y">
+  <value column="Name" original="Created Since">Dibuat Sejak</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200084" trl="Y">
+  <value column="Name" original="Use Default CoA">Gunakan CoA Default</value>
+  <value column="Description" original="Use Default Chart of Accounts">Gunakan Bagan Akun Default</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200085" trl="Y">
+  <value column="Name" original="Activity Accounting">Akuntansi Aktivitas</value>
+  <value column="Description" original="Use Activity accounting dimension">Gunakan dimensi akuntansi Aktivitas</value>
+  <value column="Help" original="Define if this tenant will use activity accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Tetapkan apakah klien ini akan menggunakan dimensi akuntansi aktivitas. Ini dapat diubah kemudian di jendela Skema Akuntansi klien.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200086" trl="Y">
+  <value column="Name" original="Inactivate Defaults">Nonaktifkan Default</value>
+  <value column="Description" original="Inactivate Defaults after Created">Nonaktifkan Default setelah Dibuat</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200102" trl="Y">
+  <value column="Name" original="Cost Adjustment Document Type">Jenis Dokumen Penyesuaian Biaya</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200121" trl="Y">
+  <value column="Name" original="Inbox As Root Folder">Kotak Masuk Sebagai Root Folder</value>
+  <value column="Description" original="True if other folder (request, error,..) occupy in inbox folder">Benar jika folder lain (permintaan, kesalahan, ..) menempati folder kotak masuk</value>
+  <value column="Help" original="Some email server as outlook, every folder occupy in inbox, with web mail as google, we easy create my folder outside inbox folder.&#10;this field define where request, error,.. occupy.">Beberapa server email sebagai prospek, setiap folder menempati inbox, dengan web mail sebagai google, kita mudah membuat folder saya di luar folder inbox.
+bidang ini menentukan di mana permintaan, kesalahan, .. menempati.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200226" trl="Y">
+  <value column="Name" original="Folder">Map</value>
+  <value column="Description" original="Path on the server where the pack in files are located">Path di server tempat paket dalam file berada</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200287" trl="N">
+  <value column="Name" original="Tenant">Tenant</value>
+  <value column="Description" original="Tenant for this installation.">Tenant for this installation.</value>
+  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">A Tenant is a company or a legal entity. You cannot share data between Tenants.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200293" trl="N">
+  <value column="Name" original="Delete old/existing files">Delete old/existing files</value>
+  <value column="Description" original="Delete the records from the old storage provider after moved">Delete the records from the old storage provider after moved</value>
+  <value column="Help" original="WARNING!  This option cannot be rolled back!  Be cautious, take backups.  If not enabled, the system administrator can/must remove manually the old files from the previous storage provider later.">WARNING!  This option cannot be rolled back!  Be cautious, take backups.  If not enabled, the system administrator can/must remove manually the old files from the previous storage provider later.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200359" trl="N">
+  <value column="Name" original="Create 'Value' column">Create 'Value' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200360" trl="N">
+  <value column="Name" original="Create 'Name' column">Create 'Name' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200361" trl="N">
+  <value column="Name" original="Create KeyColumn">Create KeyColumn</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200362" trl="N">
+  <value column="Name" original="Create a Workflow">Create a Workflow</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200363" trl="N">
+  <value column="Name" original="Create a Translation Table">Create a Translation Table</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200364" trl="N">
+  <value column="Name" original="Create 'Description' column">Create 'Description' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200365" trl="N">
+  <value column="Name" original="Create 'Help' column">Create 'Help' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200366" trl="N">
+  <value column="Name" original="Create 'DocumentNo' column">Create 'DocumentNo' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200367" trl="N">
+  <value column="Name" original="Create 'DocAction' column">Create 'DocAction' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200368" trl="N">
+  <value column="Name" original="Create 'DocStatus' column">Create 'DocStatus' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200369" trl="N">
+  <value column="Name" original="Create 'Processed' column">Create 'Processed' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200370" trl="N">
+  <value column="Name" original="Create 'ProcessedOn' column">Create 'ProcessedOn' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200371" trl="N">
+  <value column="Name" original="Create 'Processing' column">Create 'Processing' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200372" trl="N">
+  <value column="Name" original="Create 'C_DocTypeTarget_ID' column">Create 'C_DocTypeTarget_ID' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200373" trl="N">
+  <value column="Name" original="Create 'C_DocType_ID' column">Create 'C_DocType_ID' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200374" trl="N">
+  <value column="Name" original="Create 'C_Currency_ID' column">Create 'C_Currency_ID' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200375" trl="N">
+  <value column="Name" original="Create 'DateTrx' column">Create 'DateTrx' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200376" trl="N">
+  <value column="Name" original="Create 'DateAcct' column">Create 'DateAcct' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200377" trl="N">
+  <value column="Name" original="Create 'Posted' column">Create 'Posted' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200378" trl="N">
+  <value column="Name" original="Create 'IsApproved' column">Create 'IsApproved' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200379" trl="N">
+  <value column="Name" original="Create 'SalesRep_ID' column">Create 'SalesRep_ID' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200380" trl="N">
+  <value column="Name" original="Create 'AD_User_ID' column">Create 'AD_User_ID' column</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200384" trl="N">
+  <value column="Name" original="Also Without Postings">Also Without Postings</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200392" trl="N">
+  <value column="Name" original="Shipment Date">Shipment Date</value>
+  <value column="Description" original="Date printed on shipment">Date printed on shipment</value>
+  <value column="Help" original="The Shipment Date indicates the date printed on the shipment.">The Shipment Date indicates the date printed on the shipment.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200393" trl="N">
+  <value column="Name" original="Orders with unconfirmed Shipments">Orders with unconfirmed Shipments</value>
+  <value column="Description" original="Generate shipments for Orders with open delivery confirmations?">Generate shipments for Orders with open delivery confirmations?</value>
+  <value column="Help" original="You can also include orders who have outstanding confirmations (e.g. ordered=10 - not confirmed shipments=4 - would create a new shipment of 6 if available).">You can also include orders who have outstanding confirmations (e.g. ordered=10 - not confirmed shipments=4 - would create a new shipment of 6 if available).</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200417" trl="N">
+  <value column="Name" original="AD_Language">AD_Language</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200418" trl="N">
+  <value column="Name" original="Date To">Date To</value>
+  <value column="Description" original="Last Date to verify Change Log">Last Date to verify Change Log</value>
+  <value column="Help" original="The change log is verified until this date (useful for example to exclude the application of some 2Packs)">The change log is verified until this date (useful for example to exclude the application of some 2Packs)</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200433" trl="N">
+  <value column="Name" original="Link Column">Link Column</value>
+  <value column="Description" original="Link Column for Multi-Parent tables">Link Column for Multi-Parent tables</value>
+  <value column="Help" original="The Link Column indicates which column is the primary key for those situations where there is more than one parent.  Only define it, if the table has more than one parent column (e.g. AD_User_Roles).">The Link Column indicates which column is the primary key for those situations where there is more than one parent.  Only define it, if the table has more than one parent column (e.g. AD_User_Roles).</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200441" trl="N">
+  <value column="Name" original="Table Like">Table Like</value>
+  <value column="Description" original="You can use % or a comma separated list of table names enclosed within single quotes (case sensitive)">You can use % or a comma separated list of table names enclosed within single quotes (case sensitive)</value>
+  <value column="Help" original="The DB Table Name indicates the name of the table in database.">The DB Table Name indicates the name of the table in database.</value>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200447" trl="N">
+  <value column="Name" original="Keep Log Days">Keep Log Days</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200448" trl="N">
+  <value column="Name" original="Partitioning Method">Partitioning Method</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+ <row id="200449" trl="N">
+  <value column="Name" original="Table Name">Table Name</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="Placeholder2" original=""/>
+ </row>
+</idempiereTrl>

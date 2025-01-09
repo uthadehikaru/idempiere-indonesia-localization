@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2024-12-24 -Smart Suite ERP, CRM and SCM- (c) 1999-2025 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="in_ID" table="PA_DashboardContent">
+ <row id="50001" trl="N">
+  <value column="Name" original="Favorites">Favourites</value>
+  <value column="Description" original="User favorites">User favourities</value>
+  <value column="Help" original="Set your favorite menu from menu tree panel or drag and drop menu item to favorite dashboard panel. Right click on favorite item to remove. You can organize your favorites by folder.">Set your favorite menu from menu tree panel or drag and drop menu item to favorite dashboard panel. Right click on favorite item to remove. You can organize your favorites by folder.</value>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="50002" trl="N">
+  <value column="Name" original="Views">Views</value>
+  <value column="Description" original="Info views">Info views</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="50003" trl="N">
+  <value column="Name" original="Performance">Performance</value>
+  <value column="Description" original="Performance meters">Performance meters</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200000" trl="N">
+  <value column="Name" original="Recent Items">Recent Items</value>
+  <value column="Description" original="Recent items">Recent items</value>
+  <value column="Help" original="Show your latest opened document. Drag and drop a recent item to trash bin to remove it.">Show your latest opened document. Drag and drop a recent item to trash bin to remove it.</value>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200002" trl="N">
+  <value column="Name" original="Running Jobs">Running Jobs</value>
+  <value column="Description" original="Running Jobs">Running Jobs</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200003" trl="N">
+  <value column="Name" original="Activities">Activities</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200005" trl="N">
+  <value column="Name" original="Donate">Donate</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="HTML" original="&lt;iframe src=&quot;https://www.idempiere.org/short-donate/&quot; style=&quot;border-top-width: 0px;border-bottom-width: 0px;border-right-width: 0px;border-left-width: 0px;width: 100%;height: 450px;&quot;&gt;&lt;/iframe&gt;" xml:space="preserve"><![CDATA[<iframe src="https://www.idempiere.org/short-donate/" style="border-top-width: 0px;border-bottom-width: 0px;border-right-width: 0px;border-left-width: 0px;width: 100%;height: 450px;"></iframe>]]></value>
+ </row>
+</idempiereTrl>
