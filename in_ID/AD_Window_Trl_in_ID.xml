@@ -1754,67 +1754,67 @@ MRP - 110 Tidak ada Dem</value>
   <value column="Help" original=""/>
  </row>
  <row id="200110" trl="N">
-  <value column="Name" original="Info Window Customization">Info Window Customization</value>
-  <value column="Description" original="Define Info Window Customization for Role/User">Define Info Window Customization for Role/User</value>
-  <value column="Help" original="The customization values defined here overwrite/replace the default system definition if defined.">The customization values defined here overwrite/replace the default system definition if defined.</value>
+  <value column="Name" original="Info Window Customization">Kustomisasi Jendela Info</value>
+  <value column="Description" original="Define Info Window Customization for Role/User">Tentukan Kustomisasi Jendela Info untuk Peran/Pengguna</value>
+  <value column="Help" original="The customization values defined here overwrite/replace the default system definition if defined.">Nilai-nilai penyesuaian yang ditentukan di sini menimpa/mengganti definisi sistem default jika didefinisikan.</value>
  </row>
  <row id="200111" trl="N">
-  <value column="Name" original="Menu user favourites">Menu user favourites</value>
+  <value column="Name" original="Menu user favourites">Menu Favorit Pengguna</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200112" trl="N">
-  <value column="Name" original="Authorization Provider">Authorization Provider</value>
+  <value column="Name" original="Authorization Provider">Penyedia Otorisasi</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200113" trl="N">
-  <value column="Name" original="Authorization Credential">Authorization Credential</value>
+  <value column="Name" original="Authorization Credential">Kredensial Otorisasi</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200114" trl="N">
-  <value column="Name" original="MFA Method">MFA Method</value>
-  <value column="Description" original="Multi-factor Authentication Method">Multi-factor Authentication Method</value>
+  <value column="Name" original="MFA Method">Metode MFA</value>
+  <value column="Description" original="Multi-factor Authentication Method">Metode Otentikasi Multi-faktor</value>
   <value column="Help" original=""/>
  </row>
  <row id="200115" trl="N">
-  <value column="Name" original="MFA Registered Device">MFA Registered Device</value>
+  <value column="Name" original="MFA Registered Device">Perangkat Terdaftar MFA</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200116" trl="N">
-  <value column="Name" original="MFA Registration">MFA Registration</value>
+  <value column="Name" original="MFA Registration">Registrasi MFA</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200117" trl="N">
-  <value column="Name" original="MFA Rule">MFA Rule</value>
-  <value column="Description" original="Multi-factor Authentication Rule">Multi-factor Authentication Rule</value>
+  <value column="Name" original="MFA Rule">Aturan MFA</value>
+  <value column="Description" original="Multi-factor Authentication Rule">Aturan Otentikasi Multi-faktor</value>
   <value column="Help" original=""/>
  </row>
  <row id="200118" trl="N">
-  <value column="Name" original="SMTP Server">SMTP Server</value>
+  <value column="Name" original="SMTP Server">Server SMTP</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200119" trl="N">
-  <value column="Name" original="Customization of the Wlistbox">Customization of the Wlistbox</value>
+  <value column="Name" original="Customization of the Wlistbox">Kustomisasi Wlistbox</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200120" trl="N">
-  <value column="Name" original="Tenant level messages">Tenant level messages</value>
+  <value column="Name" original="Tenant level messages">Pesan tingkat Tenant</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200123" trl="N">
-  <value column="Name" original="Drill Rule">Drill Rule</value>
+  <value column="Name" original="Drill Rule">Aturan Drill</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200128" trl="N">
-  <value column="Name" original="Label Category">Label Category</value>
+  <value column="Name" original="Label Category">Kategori Label</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1824,52 +1824,52 @@ MRP - 110 Tidak ada Dem</value>
   <value column="Help" original=""/>
  </row>
  <row id="200130" trl="N">
-  <value column="Name" original="Label Assignment">Label Assignment</value>
+  <value column="Name" original="Label Assignment">Penugasan Label</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200132" trl="N">
-  <value column="Name" original="SSO Configuration">SSO Configuration</value>
-  <value column="Description" original="Single sign-on Configuration">Single sign-on Configuration</value>
-  <value column="Help" original="Single sign-on is an authentication scheme that allows a user to log in with a single ID to any of several related, yet independent, software systems.">Single sign-on is an authentication scheme that allows a user to log in with a single ID to any of several related, yet independent, software systems.</value>
+  <value column="Name" original="SSO Configuration">Konfigurasi SSO</value>
+  <value column="Description" original="Konfigurasi Single sign-on">Konfigurasi Single sign-on</value>
+  <value column="Help" original="Single sign-on adalah skema otentikasi yang memungkinkan pengguna untuk masuk dengan satu ID ke beberapa sistem perangkat lunak yang terkait, namun independen.">Single sign-on adalah skema otentikasi yang memungkinkan pengguna untuk masuk dengan satu ID ke beberapa sistem perangkat lunak yang terkait, namun independen.</value>
  </row>
  <row id="200137" trl="N">
-  <value column="Name" original="Verify Migration">Verify Migration</value>
+  <value column="Name" original="Verify Migration">Verifikasi Migrasi</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200138" trl="N">
-  <value column="Name" original="Test UU Based Table">Test UU Based Table</value>
+  <value column="Name" original="Test UU Based Table">Uji Tabel Berbasis UU</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200139" trl="N">
-  <value column="Name" original="Test UU Detail">Test UU Detail</value>
+  <value column="Name" original="Test UU Detail">Uji Detail UU</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200140" trl="N">
-  <value column="Name" original="Document Base Type Group">Document Base Type Group</value>
+  <value column="Name" original="Document Base Type Group">Grup Jenis Dasar Dokumen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200141" trl="N">
-  <value column="Name" original="Model Generator Template">Model Generator Template</value>
+  <value column="Name" original="Model Generator Template">Template Generator Model</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200147" trl="N">
-  <value column="Name" original="Private Access">Private Access</value>
+  <value column="Name" original="Private Access">Akses Pribadi</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200150" trl="N">
-  <value column="Name" original="Dynamic Validation per Table">Dynamic Validation per Table</value>
+  <value column="Name" original="Dynamic Validation per Table">Validasi Dinamis per Tabel</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200151" trl="N">
-  <value column="Name" original="Theme Customization">Theme Customization</value>
+  <value column="Name" original="Theme Customization">Kustomisasi Tema</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>

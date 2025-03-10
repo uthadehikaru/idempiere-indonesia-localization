@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='2'>
+  <artifact classifier='osgi.bundle' id='id.rekaestudigital.idempiere.log-viewer' version='1.1.0.202503100211'>
+    <properties size='9'>
+      <property name='artifact.size' value='19791'/>
+      <property name='download.size' value='19791'/>
+      <property name='download.checksum.sha-512' value='1608abb652616603ead7d2d783a3022e8a95b68f50ba3ecddaebfdabb392d5130195a6380a5b3592830c4ef2c337a1697112895756e8a3c276a9e0ce528a2857'/>
+      <property name='download.checksum.sha-1' value='85617d7e6f85e25b91ef7a17db4c18e0dc501940'/>
+      <property name='download.checksum.sha-256' value='7725a515c5fe81662741b43cb8fd45d6eed46ae77b255989f80e94eed5738b32'/>
+      <property name='maven-groupId' value='id.rekaestudigital.idempiere'/>
+      <property name='maven-artifactId' value='id.rekaestudigital.idempiere.log-viewer'/>
+      <property name='maven-version' value='1.1.0-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+    </properties>
+  </artifact>
+  <artifact classifier='osgi.bundle' id='id.rekaestudigital.idempiere.log-viewer.source' version='1.1.0.202503100211'>
+    <properties size='10'>
+      <property name='artifact.size' value='10528'/>
+      <property name='download.size' value='10528'/>
+      <property name='download.checksum.sha-512' value='c30a2d116b3a0263e0ea47a0232eb62236b66f5bc280f99a1ad3abff442fb7528e54002a814e46d51d103513eff468eccc1bddbac214335a4b8a334bc26bbb8b'/>
+      <property name='download.checksum.sha-1' value='5d26e9accb64368e3658e38b630b946bf6ff76f7'/>
+      <property name='download.checksum.sha-256' value='7d73356f80a1a32b4abc1f5f0cc3741fb8803524cb9cb5fb3523904a88ebe83f'/>
+      <property name='maven-groupId' value='id.rekaestudigital.idempiere'/>
+      <property name='maven-artifactId' value='id.rekaestudigital.idempiere.log-viewer'/>
+      <property name='maven-version' value='1.1.0-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='maven-type' value='java-source'/>
+    </properties>
+  </artifact>
+</artifacts>

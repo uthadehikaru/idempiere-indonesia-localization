@@ -4,15 +4,15 @@
   <value column="Name" original="Total">Total</value>
  </row>
  <row id="50001" trl="N">
-  <value column="Name" original="Opportunity">Opportunity</value>
+  <value column="Name" original="Opportunity">Peluang</value>
  </row>
  <row id="50002" trl="N">
-  <value column="Name" original="Expected">Expected</value>
+  <value column="Name" original="Expected">Diharapkan</value>
  </row>
  <row id="50003" trl="N">
-  <value column="Name" original="Current">Current</value>
+  <value column="Name" original="Current">Saat Ini</value>
  </row>
  <row id="50005" trl="N">
-  <value column="Name" original="Number of Requests">Number of Requests</value>
+  <value column="Name" original="Number of Requests">Jumlah Permintaan</value>
  </row>
 </idempiereTrl>

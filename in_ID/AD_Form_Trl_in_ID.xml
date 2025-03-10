@@ -72,8 +72,8 @@ Batasan: Konflik Akuntansi dan Inventaris tidak terselesaikan dalam versi ini.</
   <value column="Help" original="View and change trees. Maintain the entries in their specific Windows.">Lihat dan ubah pohon. Pertahankan entri dalam Windows spesifik mereka.</value>
  </row>
  <row id="116" trl="Y">
-  <value column="Name" original="Workflow Editor">Editor Workflow</value>
-  <value column="Description" original="Edit Workflows">Edit Alur Kerja</value>
+  <value column="Name" original="Workflow Editor">Ubah Alur Kerja</value>
+  <value column="Description" original="Edit Workflows">Ubah Alur Kerja</value>
   <value column="Help" original="Edit the graphical layout of workflows">Edit tata letak grafis alur kerja</value>
  </row>
  <row id="117" trl="Y">
@@ -196,7 +196,7 @@ Memilih kotak centang "Di mana Digunakan" akan menampilkan BOM tempat produk ini
   <value column="Help" original=""/>
  </row>
  <row id="200001" trl="Y">
-  <value column="Name" original="Reset Password">Reset Password</value>
+  <value column="Name" original="Reset Password">Setel Ulang Kata Sandi</value>
   <value column="Description" original="Reset Password">Setel Ulang Kata Sandi</value>
   <value column="Help" original=""/>
  </row>
@@ -206,7 +206,7 @@ Memilih kotak centang "Di mana Digunakan" akan menampilkan BOM tempat produk ini
   <value column="Help" original=""/>
  </row>
  <row id="200005" trl="Y">
-  <value column="Name" original="Tab Editor">Tab Editor</value>
+  <value column="Name" original="Tab Editor">Ubah Tab</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>

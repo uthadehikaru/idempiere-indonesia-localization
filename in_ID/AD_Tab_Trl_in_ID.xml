@@ -103,13 +103,13 @@
   <value column="Help" original=""/>
  </row>
  <row id="118" trl="Y">
-  <value column="Name" original="User Contact">User</value>
+  <value column="Name" original="User Contact">Kontak Pengguna</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Maintain User or Business Partner Contact">Maintain Kontak Pengguna atau Mitra Bisnis</value>
   <value column="Help" original="The User Tab defines the log in for Users who have access to the system.  For application access, users need to have a role assigned.">Tab Pengguna mendefinisikan login untuk Pengguna yang memiliki akses ke sistem. Untuk akses aplikasi, pengguna harus memiliki peran yang ditugaskan.</value>
  </row>
  <row id="119" trl="Y">
-  <value column="Name" original="Role">Role</value>
+  <value column="Name" original="Role">Peran</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Define responsibility roles">Tentukan peran tanggung jawab</value>
   <value column="Help" original="Define the role and add the organizations the role has access to. You can give users access to this role and modify the access of this role to windows, forms, processes and reports as well as tasks. &lt;br&gt;&#10;If the Role User Level is Manual, the assigned access rights are not automatically updated (e.g. if a role has a restricted number of Windows/Processes it can access). You need to add organizational access unless the role has access to all organizations. The SuperUser and the user creating a new role are assigned to the role automatically.  &lt;br&gt;&#10;If you select an Organization Tree, the user has access to the leaves of  summary organizations.&#10;Note: You cannot change the System Administrator role.">Tetapkan peran dan tambahkan klien dan organisasi yang memiliki akses. Anda dapat memberi pengguna akses ke peran ini dan mengubah akses peran ini ke jendela, formulir, proses, dan laporan serta tugas.
@@ -118,13 +118,13 @@ Jika Anda memilih Pohon Organisasi, pengguna memiliki akses ke daun ringkasan or
 Catatan: Anda tidak dapat mengubah peran Administrator Sistem.</value>
  </row>
  <row id="120" trl="Y">
-  <value column="Name" original="User Assignment">Dipasang ke User</value>
+  <value column="Name" original="User Assignment">Penugasan Pengguna</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Users with this Role">Pengguna dengan Peran ini</value>
   <value column="Help" original="The User Assignment Tab displays Users who have been defined for this Role.">Tab Penugasan Pengguna menampilkan Pengguna yang telah ditentukan untuk Peran ini.</value>
  </row>
  <row id="121" trl="Y">
-  <value column="Name" original="User Roles">Role User</value>
+  <value column="Name" original="User Roles">Peran Pengguna</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="User Roles">Peran Pengguna</value>
   <value column="Help" original="The User Roles Tab define the Roles each user may have.  The Roles will determine what windows, tasks, processes and workflows that a User has access to.">Tab Peran Pengguna menentukan Peran yang mungkin dimiliki setiap pengguna. Peran akan menentukan jendela, tugas, proses, dan alur kerja apa yang dapat diakses oleh Pengguna.</value>

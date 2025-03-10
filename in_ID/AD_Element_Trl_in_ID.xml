@@ -14,8 +14,8 @@
  <row id="102" trl="Y">
   <value column="Name" original="Tenant">Klien</value>
   <value column="PrintName" original="Tenant">Klien</value>
-  <value column="Description" original="Tenant for this installation.">Klien / Penyewa untuk instalasi ini.</value>
-  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">Klien adalah perusahaan atau badan hukum. Anda tidak dapat berbagi data antara Klien. Penyewa adalah sinonim untuk Klien.</value>
+  <value column="Description" original="Tenant for this installation.">Klien untuk instalasi ini.</value>
+  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">Klien adalah perusahaan atau badan hukum. Anda tidak dapat berbagi data antara Klien.</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -26,7 +26,7 @@
   <value column="Name" original="Column">Kolom</value>
   <value column="PrintName" original="Column">Kolom</value>
   <value column="Description" original="Column in the table">Kolom di tabel</value>
-  <value column="Help" original="Link to the database column of the table">Tautan ke kolom basis data tabel</value>
+  <value column="Help" original="Link to the database column of the table">Tautan ke kolom tabel</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -47,8 +47,8 @@
  <row id="106" trl="Y">
   <value column="Name" original="System Element">Elemen Sistem</value>
   <value column="PrintName" original="Element">Elemen</value>
-  <value column="Description" original="System Element enables the central maintenance of column description and help.">Elemen Sistem memungkinkan pemeliharaan pusat deskripsi kolom dan bantuan.</value>
-  <value column="Help" original="The System Element allows for the central maintenance of help, descriptions and terminology for a database column.">Elemen Sistem memungkinkan pemeliharaan pusat bantuan, deskripsi, dan terminologi untuk kolom basis data.</value>
+  <value column="Description" original="System Element enables the central maintenance of column description and help.">Elemen Sistem memungkinkan pemeliharaan pusat kolom deskripsi dan bantuan.</value>
+  <value column="Help" original="The System Element allows for the central maintenance of help, descriptions and terminology for a database column.">Elemen Sistem memungkinkan pemeliharaan pusat untuk bantuan, deskripsi, dan terminologi untuk kolom database.</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -59,7 +59,7 @@
   <value column="Name" original="Field">Kolom</value>
   <value column="PrintName" original="Field">Kolom</value>
   <value column="Description" original="Field on a database table">Field pada tabel database</value>
-  <value column="Help" original="The Field identifies a field on a database table.">Bidang mengidentifikasi bidang pada tabel basis data.</value>
+  <value column="Help" original="The Field identifies a field on a database table.">Bidang mengidentifikasi bidang pada tabel database.</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -4933,8 +4933,8 @@ Karena pembulatan, jumlah pajak dapat berbeda.</value>
  <row id="998" trl="Y">
   <value column="Name" original="Procedure">Prosedur</value>
   <value column="PrintName" original="Procedure">Prosedur</value>
-  <value column="Description" original="Name of the Database Procedure">Nama Prosedur Basis Data</value>
-  <value column="Help" original="The Procedure indicates the name of the database procedure called by this report or process.">Prosedur menunjukkan nama prosedur basis data yang disebut oleh laporan atau proses ini.</value>
+  <value column="Description" original="Name of the Database Procedure">Nama Prosedur database</value>
+  <value column="Help" original="The Procedure indicates the name of the database procedure called by this report or process.">Prosedur menunjukkan nama prosedur database yang disebut oleh laporan atau proses ini.</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -10374,7 +10374,7 @@ Untuk kustomisasi, salin entitas dan pilih "Pengguna"!</value>
   <value column="Name" original="Synchronize Database">Sinkronisasi database</value>
   <value column="PrintName" original="Sync DB">Sync DB</value>
   <value column="Description" original="Change database table definition when changing dictionary definition">Ubah definisi tabel database saat mengubah definisi kamus</value>
-  <value column="Help" original="When selected, the database column definition is updated based on your entries in the Column definition of the Application Dictionary.">Ketika dipilih, definisi kolom basis data diperbarui berdasarkan entri Anda dalam definisi kolom pada Kamus Aplikasi.</value>
+  <value column="Help" original="When selected, the database column definition is updated based on your entries in the Column definition of the Application Dictionary.">Ketika dipilih, definisi kolom database diperbarui berdasarkan entri Anda dalam definisi kolom pada Kamus Aplikasi.</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19823,7 +19823,7 @@ Faktur dan Alokasi Pembayaran menentukan Saldo Terbuka (mis. Bukan Pesanan atau 
   <value column="Name" original="Custom Prefix">Prefix Kustom</value>
   <value column="PrintName" original="Custom Prefix">Prefix Kustom</value>
   <value column="Description" original="Prefix for Custom entities">Awalan untuk entitas Kustom</value>
-  <value column="Help" original="The prefix listed are ignored as customization for database or entity migration">Awalan yang terdaftar diabaikan sebagai penyesuaian untuk migrasi basis data atau entitas</value>
+  <value column="Help" original="The prefix listed are ignored as customization for database or entity migration">Awalan yang terdaftar diabaikan sebagai penyesuaian untuk migrasi database atau entitas</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -20225,7 +20225,7 @@ Remind Days adalah hari-hari ketika pengingat email berikutnya dikirimkan.</valu
  <row id="2640" trl="Y">
   <value column="Name" original="Database Name">Nama Database</value>
   <value column="PrintName" original="DB Name">Nama DB</value>
-  <value column="Description" original="Database Name">Nama Basis Data</value>
+  <value column="Description" original="Database Name">Nama database</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -20236,7 +20236,7 @@ Remind Days adalah hari-hari ketika pengingat email berikutnya dikirimkan.</valu
  <row id="2641" trl="Y">
   <value column="Name" original="Processors">Prosesor</value>
   <value column="PrintName" original="Processors">Prosesor</value>
-  <value column="Description" original="Number of Database Processors">Jumlah Pemroses Basis Data</value>
+  <value column="Description" original="Number of Database Processors">Jumlah Pemroses database</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -22890,7 +22890,7 @@ Contoh: jika harga pembelian adalah $ 100 dan toleransi adalah 1 (persen), harga
  <row id="2893" trl="Y">
   <value column="Name" original="Database">Database</value>
   <value column="PrintName" original="Database">Database</value>
-  <value column="Description" original="Database Information">Informasi Basis Data</value>
+  <value column="Description" original="Database Information">Informasi database</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -58534,8 +58534,8 @@ Produk: digunakan untuk dengan cepat menambahkan produk ke pesanan POS</value>
  <row id="202189" trl="Y">
   <value column="Name" original="Query Function">Fungsi Query</value>
   <value column="PrintName" original="Query Function">Fungsi Query</value>
-  <value column="Description" original="Database function for query">Fungsi basis data untuk kueri</value>
-  <value column="Help" original="Database function for user query. If the database function takes more than just the column name parameter, use ? to indicate where the column name should goes to. E.g: Upper, Trunc and To_Char(?,'MM')">Fungsi basis data untuk permintaan pengguna. Jika fungsi database mengambil lebih dari sekedar parameter nama kolom, gunakan? untuk menunjukkan ke mana nama kolom harus pergi. E.g: Atas, Trunc, dan To_Char (?, 'MM')</value>
+  <value column="Description" original="Database function for query">Fungsi database untuk kueri</value>
+  <value column="Help" original="Database function for user query. If the database function takes more than just the column name parameter, use ? to indicate where the column name should goes to. E.g: Upper, Trunc and To_Char(?,'MM')">Fungsi database untuk permintaan pengguna. Jika fungsi database mengambil lebih dari sekedar parameter nama kolom, gunakan? untuk menunjukkan ke mana nama kolom harus pergi. E.g: Atas, Trunc, dan To_Char (?, 'MM')</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -61423,7 +61423,7 @@ Contoh nilai ini = 60. pengguna tidak dapat menggunakan kembali kata sandi dalam
  <row id="203005" trl="Y">
   <value column="Name" original="Style">Style</value>
   <value column="PrintName" original="Style">Style</value>
-  <value column="Description" original="CSS style for field and label">Gaya CSS untuk bidang dan label</value>
+  <value column="Description" original="CSS style for field and label">Style CSS untuk bidang dan label</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -61434,7 +61434,7 @@ Contoh nilai ini = 60. pengguna tidak dapat menggunakan kembali kata sandi dalam
  <row id="203006" trl="Y">
   <value column="Name" original="Style">Style</value>
   <value column="PrintName" original="Style">Style</value>
-  <value column="Description" original="CSS Style for field and label">Gaya CSS untuk bidang dan label</value>
+  <value column="Description" original="CSS Style for field and label">Style CSS untuk bidang dan label</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -61445,7 +61445,7 @@ Contoh nilai ini = 60. pengguna tidak dapat menggunakan kembali kata sandi dalam
  <row id="203007" trl="Y">
   <value column="Name" original="Style Line">Style Line</value>
   <value column="PrintName" original="Style Line">Style Line</value>
-  <value column="Description" original="CSS Style Line">Garis Gaya CSS</value>
+  <value column="Description" original="CSS Style Line">Garis Style CSS</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -61456,7 +61456,7 @@ Contoh nilai ini = 60. pengguna tidak dapat menggunakan kembali kata sandi dalam
  <row id="203008" trl="Y">
   <value column="Name" original="Style Line">Style Line</value>
   <value column="PrintName" original="Style Line">Style Line</value>
-  <value column="Description" original="CSS Style Line">Garis Gaya CSS</value>
+  <value column="Description" original="CSS Style Line">Garis Style CSS</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -61467,7 +61467,7 @@ Contoh nilai ini = 60. pengguna tidak dapat menggunakan kembali kata sandi dalam
  <row id="203009" trl="Y">
   <value column="Name" original="Inline Style">Inline Style</value>
   <value column="PrintName" original="Inline Style">Inline Style</value>
-  <value column="Description" original="CSS Inline Style">Gaya CSS Inline</value>
+  <value column="Description" original="CSS Inline Style">Style CSS Inline</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -61476,8 +61476,8 @@ Contoh nilai ini = 60. pengguna tidak dapat menggunakan kembali kata sandi dalam
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="203010" trl="Y">
-  <value column="Name" original="Theme">Theme</value>
-  <value column="PrintName" original="Theme">Theme</value>
+  <value column="Name" original="Theme">Tema</value>
+  <value column="PrintName" original="Theme">Tema</value>
   <value column="Description" original="Theme name">Nama tema</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61489,7 +61489,7 @@ Contoh nilai ini = 60. pengguna tidak dapat menggunakan kembali kata sandi dalam
  <row id="203011" trl="Y">
   <value column="Name" original="Label Style">Label Style</value>
   <value column="PrintName" original="Label Style">Label Style</value>
-  <value column="Description" original="Label CSS Style">Label Gaya CSS</value>
+  <value column="Description" original="Label CSS Style">Label Style CSS</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>

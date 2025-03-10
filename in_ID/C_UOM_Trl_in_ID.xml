@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--iDempiere(r) Release 13_2024-12-24 -Smart Suite ERP, CRM and SCM- (c) 1999-2025 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="in_ID" table="C_UOM">
  <row id="100" trl="Y">
-  <value column="Name" original="Each">Biji</value>
+  <value column="Name" original="Each">Satuan</value>
   <value column="Description" original=""/>
   <value column="UOMSymbol" original="Ea ">Ea </value>
  </row>
@@ -26,7 +26,7 @@
   <value column="UOMSymbol" original="D  ">D  </value>
  </row>
  <row id="105" trl="Y">
-  <value column="Name" original="Week">Minggu</value>
+  <value column="Name" original="Week">Pekan</value>
   <value column="Description" original=""/>
   <value column="UOMSymbol" original="w  ">w  </value>
  </row>
