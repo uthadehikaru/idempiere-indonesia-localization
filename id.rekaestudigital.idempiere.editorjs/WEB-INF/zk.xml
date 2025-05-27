@@ -1,0 +1,6 @@
+<zk>
+    <component>
+        <component-name>editorjs</component-name>
+        <component-class>id.rekaestudigital.idempiere.editorjs.component.EditorJs</component-class>
+    </component>
+</zk>
