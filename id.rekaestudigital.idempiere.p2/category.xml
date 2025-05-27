@@ -3,5 +3,11 @@
    <bundle id="id.rekaestudigital.idempiere.log-viewer" version="1.1.0.qualifier">
       <category name="id.rekaestudigital.idempiere"/>
    </bundle>
+   <bundle id="id.rekaestudigital.idempiere.editorjs" version="1.0.0.qualifier">
+      <category name="id.rekaestudigital.idempiere"/>
+   </bundle>
+   <bundle id="id.rekaestudigital.idempiere.indonesia.base" version="1.0.0.qualifier">
+      <category name="id.rekaestudigital.idempiere"/>
+   </bundle>
    <category-def name="id.rekaestudigital.idempiere" label="Reka Estu Digital Idempiere plugins"/>
 </site>

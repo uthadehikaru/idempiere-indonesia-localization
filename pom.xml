@@ -13,8 +13,9 @@
         </parent>
         <modules>
 		<module>id.rekaestudigital.idempiere.log-viewer</module>
+		<module>id.rekaestudigital.idempiere.editorjs</module>
+		<module>id.rekaestudigital.idempiere.indonesia.base</module>
 		<module>id.rekaestudigital.idempiere.p2</module>
-                <module>id.rekaestudigital.idempiere.editorjs</module>
 	</modules>
 </project>
 
