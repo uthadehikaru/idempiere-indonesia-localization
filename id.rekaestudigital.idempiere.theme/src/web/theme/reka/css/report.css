@@ -1,0 +1,189 @@
+.rp-href {
+    color: #000000;
+}
+.rp-table {
+	color: #000000;
+	border-width: 0px;
+	border-color: #C6D1CD;
+	border-style: solid;
+	border-collapse: separate;
+	border-spacing: 0px;
+	width: 98%;
+	background-color: #FFFFFF;
+	border-width: 0px;
+	font-size: 10px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif ;
+}
+.rp-table thead{
+	font-size: 11px;
+	white-space: nowrap;
+}
+
+.rp-table tr:last-child {
+	border-bottom-width: 1px;
+}
+
+.rp-table th {
+
+	position: sticky;
+    top: 2px;
+    z-index: 1;
+
+	text-align:left;
+	padding: 4px;
+	font-weight: bold;
+	background-color: #E9F0FF;
+
+
+	/**************************************************************************************
+	 When I use Edege ,
+	 Border Line of TH element could not follow the scroll in case of the position: sticky;
+	 So, I did comment out below and move to ".rp-table th::after"
+	***************************************************************************************/
+	/*
+	border-style: solid;
+	border-color: #003894  #bbbbbb;
+	border-width: 2px 0px 2px 1px;
+	*/
+}
+
+/*
+.rp-table th:last-child {
+	border-right-width: 1px;
+}
+*/
+
+/**************************************************************************************
+ When I use Edege ,
+ Border Line of TH element could not follow the scroll in case of the position: sticky;
+ So, I did comment out below and move to ".rp-table th::after"
+***************************************************************************************/
+.rp-table th::after {
+	content: '';
+    position: absolute;
+    display: block;
+    top : -2px;
+    left: -1px;
+    width: 100%;
+    height: 100%;
+
+	border-style: solid;
+	border-color: #003894  #bbbbbb;
+    border-width: 2px 0px 2px 1px;
+
+}
+
+.rp-table th:last-child::after {
+	border-right-width: 1px;
+}
+
+
+.rp-table td {
+	border-width: 1px 0px 0px 1px;
+	border-color: #bbbbbb;
+	border-style: solid;
+	padding: 4px;
+
+
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.rp-table td:last-child {
+	border-right-width: 1px;
+	border-style: solid;
+}
+
+.rp-number {
+	text-align: right !important;
+	padding: 4px;
+}
+.rp-text, .rp-date {
+	text-align: left;
+	padding: 4px 4px 4px 0px;
+}
+
+.rp-lastgrouprow td {
+	border-width: 1px 0px 0px 1px;
+}
+
+.rp-lastgrouprow td:last-child {
+	border-right-width: 1px;
+}
+
+.rp-functionrow td {
+	background-color: #eeeeee;
+	font-weight: bold;
+	font-style:italic;
+	padding: 8px 4px 8px 4px;
+	border-top-style: double;
+	border-left-style: solid;
+	border-bottom-style: solid;
+	border-width: 4px 0px 1px 1px;
+	color: #000000;
+}
+
+.rp-functionrow td:last-child {
+
+	border-top-style: double;
+	border-top-width: 4px;
+	border-right-style: solid;
+	border-right-width: 1px;
+}
+
+div.rp-flex-container {
+	display: flex; 
+	flex-direction: column; 
+	height: 100%;
+}
+
+#rp-para-table-wrap {
+	flex-grow: 0;
+}
+
+div.rp-table-wrap {
+	flex-grow: 1;
+	overflow: auto;
+}
+
+div.rp-table-wrap > table > thead > tr > th {
+	position: sticky;
+	top: 0;
+}
+
+@media print {
+	div.rp-flex-container {
+		height: auto;
+	}
+	div.rp-table-wrap {
+		overflow: visible;
+	}
+	div.rp-table-wrap > table > thead > tr > th {
+		position: relative;
+	}
+}
+
+.z-icon-Report::before {
+	content: "\f1ea";
+}
+.z-icon-Window::before {
+	content: "\f022";
+}
+.z-icon-Zoom::before {
+	content: "\f14c";
+}
+[class^="z-icon-"], [class*=" z-icon-"] {
+  box-sizing: border-box;
+  padding-right: 4px;
+  line-height: 14px;
+}
+span.font-icon::before {
+	box-sizing: border-box;
+	display: inline-block;
+	font-size: 14px;
+	width: 16px;
+	text-align: center;
+	vertical-align: middle;
+	color: inherit;
+}
+

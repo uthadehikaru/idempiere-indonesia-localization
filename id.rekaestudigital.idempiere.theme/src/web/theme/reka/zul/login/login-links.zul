@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009 Low Heng Sin
+Copyright (C) 2009 Idalica Corporation
+-->
+<zk>
+
+
+<div align="center" width="100%">
+	<a href="https://idempiere.org">
+	<image src="~./theme/reka/images/login-logo.png" /></a>
+</div>
+
+<div align="center" style="margin-top:100px;">
+	<a href="http://www.zkoss.org" tooltiptext="Powered by Zk">
+	<image src="~./theme/default/images/zkpowered_s.png" /></a>
+</div>
+
+</zk>

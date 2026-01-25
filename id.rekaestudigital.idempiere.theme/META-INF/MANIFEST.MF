@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: id.rekaestudigital.idempiere.theme
+Bundle-SymbolicName: id.rekaestudigital.idempiere.theme
+Bundle-Version: 1.0.6.qualifier
+Eclipse-BundleShape: dir
+Bundle-Vendor: Reka Estu Digital
+Fragment-Host: org.adempiere.ui.zk;bundle-version="11.0.0"
+Automatic-Module-Name: id.rekaestudigital.idempiere.theme
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Jetty-WarPrependFragmentResourcePath: /

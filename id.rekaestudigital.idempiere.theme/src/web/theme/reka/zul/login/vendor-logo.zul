@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009 Low Heng Sin
+Copyright (C) 2009 Idalica Corporation
+-->
+<zk>
+
+<div style="margin-top: 100px;" align="center">
+	<hbox align="center">
+		<a href="https://rekaestudigital.id/" target="_blank"><image style="width:200px" src="~./theme/reka/images/logo-reka-estu-digital.png"/></a>
+	</hbox>
+</div>
+
+</zk>

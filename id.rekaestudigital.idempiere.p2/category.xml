@@ -9,5 +9,8 @@
    <bundle id="id.rekaestudigital.idempiere.indonesia.base" version="1.0.0.qualifier">
       <category name="id.rekaestudigital.idempiere"/>
    </bundle>
+   <bundle id="id.rekaestudigital.idempiere.theme" version="1.0.6.qualifier">
+      <category name="id.rekaestudigital.idempiere"/>
+   </bundle>
    <category-def name="id.rekaestudigital.idempiere" label="Reka Estu Digital Idempiere plugins"/>
 </site>

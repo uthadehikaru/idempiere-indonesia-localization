@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language-addon>
+    <addon-name>reka theme</addon-name>
+    <language-name>xul/html</language-name>
+	<javascript-module name="id.rekaestudigital.idempiere.theme" version="20250127160500"/>
+</language-addon>
