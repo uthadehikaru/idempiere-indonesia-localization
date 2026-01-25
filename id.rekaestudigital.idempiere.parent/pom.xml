@@ -17,7 +17,7 @@
 		<download.maven.version>1.4.1</download.maven.version>
 		<lifecycle.mapping.version>1.0.0</lifecycle.mapping.version>
 		<!-- default value of properties, use when run without profile -->
-		<idempiere.core.repository.url>https://jenkins.idempiere.org/job/iDempiere/ws/org.idempiere.p2/target/repository/</idempiere.core.repository.url>
+		<idempiere.core.repository.url>https://p2.zuhriutama.com/idempiere/release-12/</idempiere.core.repository.url>
 	</properties>
 
 	<build>
